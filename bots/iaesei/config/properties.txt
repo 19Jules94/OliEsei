@@ -5,6 +5,9 @@ job:estudiante
 email:jpsilva17@esei.uvigo.es
 gender:male
 botmaster:Julio,Antonio,Juan
+delegacion:no pertenezco a la delegación
+estudios:Al acabar mis estudios me gustaría ser un bot mejor.
+especiales:No
 organization:ESEI-uVigo
 version:0.0.4
 

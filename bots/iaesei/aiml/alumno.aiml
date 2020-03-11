@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<!-- 1 regla -->
+<category>
+<pattern>Perteneces a la delegacion de alumnos</pattern>
+<template>
+A dia de hoy <bot name="delegacion"/>
+</template>
+</category> 
+
+<!-- 2 regla -->
+<category>
+<pattern>Que quieres hacer cuando termines tus estudios</pattern>
+<template>
+<bot name="estudios"/>
+</template>
+</category> 
+
+<!-- 3 regla -->
+<category>
+<pattern>Tienes necesidades educativas especiales</pattern>
+<template>
+<bot name="especiales"/>
+</template>
+</category> 
+
+</aiml>
